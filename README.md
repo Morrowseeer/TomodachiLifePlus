@@ -11,3 +11,4 @@ morrowseer
 https://en.wikipedia.org/wiki/Fish_as_food
 
 ### temp backup tdlp repo because i lost access to my TDLPTeam account lolllll
+### enjoy my garbage readme because i cant make one
